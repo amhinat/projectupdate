@@ -7,7 +7,7 @@ body{
     background-color:burlywood;
 }
 .header{
-    font-size: 30px;
+    font-size: 40px;
     text-decoration: none;
     color: azure;
     background-color: black;
@@ -19,6 +19,7 @@ body{
 #par{
     margin: 8px;
     font-size: bold;
+    font-size: 26px;
 }
 #par{
     margin: 8px;
@@ -27,16 +28,31 @@ body{
 .track{
     margin: 8px;
     font-size:bold ;
+    padding: 20px;
+    width: 15rem;
+    box-shadow: 0 0 10px;
+    margin: 1rem;
 }
 .box{
     margin: 8px;
     font-size:bold ;
     color: aqua;
     text-decoration: none;
+    padding: 20px;
+    width: 15rem;
+    box-shadow: 0 0 10px;
+    margin: 1rem;
 }
 .container{
        color: azure;
        text-decoration: none;
        font-size: bold;
        margin: 8px;
+       display: flex;
+       justify-content: center;
+       margin-top: 20px;
+       max-width: 88rem;
+}
+.but{
+    color: azure;
 }
