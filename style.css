@@ -6,11 +6,10 @@
 body{
     background-color:burlywood;
 }
-.header{
-    font-size: 40px;
-    text-decoration: none;
+.header img{
+    width: 18%;
+    flex-direction: row;
     color: azure;
-    background-color: black;
 }
 .h2{
     font-size: 20px;
@@ -55,4 +54,17 @@ body{
 }
 .but{
     color: azure;
+    text-decoration: none;
+}
+.content{
+    background-color: gainsboro;
+}
+.city{
+    margin: 8px;
+    font-size: bold;
+    font-size: 26px;
+}
+.park{
+    width: 50%;
+    border-radius: 0;
 }
