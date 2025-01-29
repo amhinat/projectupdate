@@ -24,7 +24,19 @@ body{
     margin: 8px;
     font-size: bold;
 }
-div1{
+.track{
     margin: 8px;
     font-size:bold ;
+}
+.box{
+    margin: 8px;
+    font-size:bold ;
+    color: aqua;
+    text-decoration: none;
+}
+.container{
+       color: azure;
+       text-decoration: none;
+       font-size: bold;
+       margin: 8px;
 }
