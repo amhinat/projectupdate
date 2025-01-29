@@ -1,3 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 body{
-    background-color: red;
+    background-color:burlywood;
+}
+.header{
+    font-size: 30px;
+    text-decoration: none;
+    color: azure;
+    background-color: black;
+}
+.h2{
+    font-size: 20px;
+    margin: 10px;
+}
+#par{
+    margin: 8px;
+    font-size: bold;
+}
+#par{
+    margin: 8px;
+    font-size: bold;
+}
+div1{
+    margin: 8px;
+    font-size:bold ;
 }
