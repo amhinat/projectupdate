@@ -70,7 +70,7 @@ body{
 }
 .contat{
     color: black;
-    background-color: skyblue;
+    background-color: #B1C9EF;
 }
 .villa{
     margin: 8px;
@@ -140,5 +140,9 @@ body{
 }
 .neck{
     margin: 20px;
+}
+.section,.blur a{
+    color:red;
+    text-decoration: none;
 }
 /*add more animation delays for additional slides */
