@@ -66,27 +66,16 @@ body{
     border-radius: 0;
 }
 .tour{
-    background-color: blueviolet;
+    background-color: #adb4a6;
+}
+.contat{
+    color: black;
+    background-color: skyblue;
 }
 .villa{
     margin: 8px;
     font-size: medium;
     font-size: 15px;
-}
-.view{
-    margin: 8px;
-    font-size: 12px;
-}
-.port{
-    margin: 8px;
-    font-size: 12px;
-}
-.list{
-    margin: 8px;
-    font-size: 12px;
-}
-.lest{
-    margin: 8px;
     font-size: 12px;
 }
 .sec{
