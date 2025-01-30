@@ -1,7 +1,7 @@
-Hello guys
-Create landing page 
-Insert write ups 
-Separate divs, main, and section 
-Color merging
-slideshows 
-Add links to move to other webpages
+Hello guys.<br>
+Create landing page.<br>
+Insert write ups.<br>
+Separate divs, main, and section.<br>
+Color merging.<br>
+slideshows.<br>
+Add links to move to other webpages.
