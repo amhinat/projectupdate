@@ -8,8 +8,18 @@ body{
 }
 .header img{
     width: 18%;
+    height: 250px;
     flex-direction: row;
-    color: azure;
+    color: skyblue;
+}
+.manual{
+    background-color: aliceblue;
+    padding: 5px;
+}
+.place{
+    padding: 15px;
+    font-size: bold;
+    color: goldenrod;
 }
 .h2{
     font-size: 20px;
@@ -18,6 +28,10 @@ body{
 #par{
     margin: 8px;
     font-size: bold;
+}
+.foot{
+    padding: 15px;
+    background-color:lightblue;
 }
 .track{
     margin: 8px;
