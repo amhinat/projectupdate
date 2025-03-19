@@ -10,7 +10,9 @@ body{
     width: 18%;
     height: 250px;
     flex-direction: row;
-    background-color: skyblue;
+}
+.header{
+    background-color: lightblue;
 }
 .manual{
     background-color: aliceblue;
