@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery Survey</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="body">
+    <div class="contain">
+        <h1>Photo Gallery Survey</h1>
+        <form id="syrvey-form">
+            <label>
+                Name:</label>
+              <input type="text"
+              id="name" name="name" required>
+                  <label>What is your age range?</label>
+                     <select id="Age-range" name="Age-range">
+                        <option value="">select an age range</option>
+                        <option value="18-24">18-24</option>
+                        <option value="25-34">25-34</option>
+                        <option value="35-44">35-44</option>
+                        <option value="45-54">45-54</option>
+                        <option value="55+">55+</option>
+                     </select>
+                  <label>Occupation</label>
+                  <input type="text" id=" Occupation" name="Occupation" required>
+                  <label>How did you hear about our photo gallery?</label>
+                   <select id="hear-about" name="hear-about">
+                      <option value="">Select an option</option>
+                      <option value="social media">Social media</option>
+                      <option value="search-engine">Search engine</option>
+                      <option value="friend-family">Friend or Family</option>
+                      <option value="other">Other</option>
+                   </select>
+                 <label>
+                          Email:</label>
+                          <input type="email"
+                          id="email" name="email" required>
+                        <section>
+                            <h2 class="phat">Photo Gallery Experience</h2>
+                          <label for="rating">How would you rate our Photo gallery?</label>
+                          <select id="rating"
+                             name="rating" required>
+                              <option value="">Select a rating</option>
+                              <option value="1">1(poor)</option>
+                              <option value="2">2(fair)</option>
+                              <option value="3">3(good)</option>
+                              <option value="4">4(very good)</option>
+                              <option value="5">5(excellent)</option>
+                          </select>
+                          <label for="navigation">How easy was it to navigate our Photo gallery?</label>
+                          <select id="navigation"
+                             name="navigation" required>
+                              <option value="">Select a rating</option>
+                              <option value="1">1(very diffucult)</option>
+                              <option value="2">2(somewhat diffucult)</option>
+                              <option value="3">3(neutral)</option>
+                              <option value="4">4(somewhat easy)</option>
+                              <option value="5">5(easy)</option>
+                          </select>
+                          <label for="comments" >Do you have any comments or suggestions?</label> 
+                          <textarea id="comments" name="comments"></textarea>
+                          <label for="favorite-photo">What is your favorite photo in the gallery?</label>
+                          <input type="text" id="favorite-photo" name="favorite-photo">
+                          <label for="least-favorite-photo">What is your least favorite photo in the gallery?</label>
+                          <input type="text" id="least-favorite-photo" name=" least-favorite-photo">
+                          <label>What did you like most about our photo gallery?</label>
+                          <textarea id="liked-most" name="liked-most"></textarea>
+                          <label>What did you like least about our photo gallery?</label>
+                          <textarea id="liked-least" name="liked-least"></textarea>
+                          <label for="Relevance">How relevant were the photos in our gallery to your interest?</label>
+                          <select id="Relevance"
+                             name="Relevance" required>
+                              <option value="">Select a rating</option>
+                              <option value="1">1(not relevant at all)</option>
+                              <option value="2">2(somewhat inrelevant)</option>
+                              <option value="3">3(neutral)</option>
+                              <option value="4">4(somewhat relevant)</option>
+                              <option value="5">5(very relevant)</option>
+                          </select>
+                          <label>Were there any missing photos that you felt was missing in our gallery?</label>
+                            <textarea name="missing-photos" id="missing-photos"></textarea>
+                          <button type="submit">SUBMIT</button>
+                        </section>  
+        </form>                  
+
+    </div>
+</body>
+</html>
