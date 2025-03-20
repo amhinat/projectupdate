@@ -7,7 +7,7 @@ body{
     background-color:gainsboro;
 }
 .header img{
-    width: 18%;
+    width: 19.8%;
     height: 250px;
     flex-direction: row;
 }
@@ -67,6 +67,7 @@ body{
 .but{
     color:red;
     text-decoration: none;
+    padding: 2rem;
 }
 .city{
     margin: 8px;
@@ -209,7 +210,7 @@ button[type="submit"]:hover{
 .button a{
     text-decoration: none;
     color: #3e8e41;
-    padding: 15px;
+    padding: 1rem;
 }
 .cat{
     text-decoration: none;
