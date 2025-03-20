@@ -95,6 +95,7 @@ body{
     font-size: 12px;
 }
 .sec{
+    background-color: aliceblue;
     font-size: 15px;
     margin: 8px;
 }
@@ -208,8 +209,10 @@ button[type="submit"]:hover{
 .button a{
     text-decoration: none;
     color: #3e8e41;
+    padding: 15px;
 }
 .cat{
     text-decoration: none;
     color: #3e8e41;
 }
+
