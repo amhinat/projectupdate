@@ -5,6 +5,7 @@
 }
 body{
     background-color:gainsboro;
+    flex-wrap: wrap;
 }
 .header img{
     width: 19.8%;
@@ -34,6 +35,12 @@ body{
 .foot{
     padding: 15px;
     background-color:lightblue;
+    margin-top: 20px;
+    text-align: center;
+    color: #000000;
+}
+.foot a{
+    text-decoration: none;
 }
 .track{
     margin: 8px;
@@ -215,5 +222,20 @@ button[type="submit"]:hover{
 .cat{
     text-decoration: none;
     color: #3e8e41;
+}
+@media (max-width:700px) {
+    .container{
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+        padding: 0;
+    }
+    img{
+        border-radius: 0;
+    }
+    *{
+        margin: 10px;
+    }
+    
 }
 
