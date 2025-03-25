@@ -10,21 +10,23 @@
     <!--header section-->
     <header class="second header">
         <nav>
-            <ul>
-                <li>
-                    <a href="index.html">HOME</a>
-                </li>
-                <li>
-                    <a href="cities and urban destinations.html">URBAN</a>
-                </li>
-                <li>
-                    <a href="natural wonders.html">NATURE</a>
-                </li>
-                <li>
-                    <a href="survey form.html">SURVEY</a>
-                </li>
-            </ul>
-        </nav>
+            <!-- Hamburger Icon (4 lines) -->
+    <div class="hamburger" onclick="toggleMenu()">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+
+    <!-- Hidden Navigation Menu inside <nav> -->
+    <nav id="hiddenNav" class="hidden-nav">
+        <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="cities and urban destinations.html">URBAN</a></li>
+            <li><a href="natural wonders.html">NATURE</a></li>
+            <li><a href="survey form.html">SURVEY</a></li>
+        </ul>
+    </nav>
     </header>
     <header class="header img">
         <img src="./images/images4.jpg/niagara2.jpg" alt="falls"><img src="./images/images3.jpg/lekki3.jpg" alt="center">
@@ -89,5 +91,6 @@
         <footer class="foot">
            <p>&copy; 2025 Photo Gallery.All Rights Reserved</p>     
         </footer>
+        <script src="slate.js"></script>
 </body>
 </html>

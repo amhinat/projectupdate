@@ -9,21 +9,23 @@
 <body class="contat">
     <header class="second header">
         <nav>
-            <ul>
-                <li>
-                    <a href="index.html">HOME</a>
-                </li>
-                <li>
-                    <a href="cities and urban destinations.html">URBAN</a>
-                </li>
-                <li>
-                    <a href="natural wonders.html">NATURE</a>
-                </li>
-                <li>
-                    <a href="survey form.html">SURVEY</a>
-                </li>
-            </ul>
-        </nav>
+            <!-- Hamburger Icon (4 lines) -->
+           <div class="hamburger" onclick="toggleMenu()">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+           </div>
+      </nav>
+             <!-- Hidden Navigation Menu inside <nav> -->
+               <nav id="hiddenNav" class="hidden-nav">
+                   <ul>
+                     <li><a href="index.html">HOME</a></li>
+                     <li><a href="cities and urban destinations.html">URBAN</a></li>
+                     <li><a href="natural wonders.html">NATURE</a></li>
+                     <li><a href="survey form.html">SURVEY</a></li>
+                   </ul>
+               </nav>
     </header>
     <div class="content">
         <h1>Cities and Urban Areas</h1>
