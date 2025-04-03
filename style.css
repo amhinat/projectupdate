@@ -72,9 +72,9 @@ nav a:hover{
     font-size: bold;
 }
 .foot{
-    padding: 15px;
+    padding: 10px;
     background-color:lightblue;
-    margin-top: 20px;
+    margin-top: 15px;
     text-align: center;
     color: #000000;
 }
@@ -241,8 +241,8 @@ input, select, textarea{
     border: 1px solid #ccc;
 }
 button[type="submit"]{
-    background-color: #4CAF50;
-    color: #fff;
+    background-color: #010c01;
+    color: aliceblue;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -256,7 +256,7 @@ button[type="submit"]:hover{
 }
 .button a{
     text-decoration: none;
-    color: #3e8e41;
+    color: #e00808;
     padding: 0.5rem;
 }
 .cat{
@@ -319,7 +319,6 @@ button[type="submit"]:hover{
     list-style-type: none;
     padding: 0;
 }
-
 .hidden-nav ul li {
     margin: 10px 0;
 }
