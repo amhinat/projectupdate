@@ -19,7 +19,7 @@ Globe Wanderers<br>
       Contributions <br>
             <p> As a beginner project, I'm open to learning and improving!if you'd like to contribute, please submit a pull request or issue.<br><p>
       Acknowledgments <br>
-            <p>.Thanks to [sources] for theamazing images<br>
+            <p>.Thanks to [sources] for the amazing images<br>
             .Inspiration from [similar websites and projects]<br><p>
       License <br>
            <p> .MIT LICENSE <p>
