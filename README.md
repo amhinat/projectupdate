@@ -1,7 +1,7 @@
+
 <img width="994" alt="image" src="https://github.com/user-attachments/assets/68e44d33-5196-44da-89e0-800a2671cecc" />
 
-
-Globe Wanderers<br>
+  Globe Wanderers<br>
   <p> A beginner-friendly photo gallery website showcasing stunning tourists destinations around the world.<br></p>
    Features <br>
              <p>.View images in a slideshow <br>
