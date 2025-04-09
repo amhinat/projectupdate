@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c7a268ab-3379-464d-b5a6-393ccb539e13)
+<img width="994" alt="image" src="https://github.com/user-attachments/assets/68e44d33-5196-44da-89e0-800a2671cecc" />
+
 
 Globe Wanderers<br>
   <p> A beginner-friendly photo gallery website showcasing stunning tourists destinations around the world.<br></p>
