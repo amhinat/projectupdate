@@ -1,5 +1,5 @@
 Globe Wanderers<br>
-   A beginner-friendly photo gallery website showcasing stunning tourists destinations around the world.
+   A beginner-friendly photo gallery website showcasing stunning tourists destinations around the world.<br>
    Features <br>
         View images in a slideshow <br>
         simple navigation for easy exploration.<br>
