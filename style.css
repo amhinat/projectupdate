@@ -285,15 +285,14 @@ button[type="submit"]:hover{
     .title{
         flex-direction: column;
     }
-}
-/*.hamburger{
+    .hamburger{
     width: 30px;
     height: 20px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     cursor: pointer;
-    margin: 20px;
+    margin: 5px;
 }
 .line {
     height: 5px;
@@ -330,7 +329,8 @@ button[type="submit"]:hover{
 }
 .show-nav {
     display: flex;
-}*/
+}
 
 
+}
 
