@@ -12,9 +12,6 @@ body{
     height: 230px;
     flex-direction: row;
 }
-/*header{
-    background-color: lightblue;
-}*/
 .second header{
     background-color: gray;
     color: black;
