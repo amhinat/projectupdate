@@ -11,7 +11,7 @@
              <p> View images in a slideshow <br>
                 simple navigation for easy exploration.<br></p>
     Technologies Used<br>
-            <p>-**Html**<br>
+            <p>Html<br>
              Css<br>
              Javascript(with some help from online resources)<br></p>
       Known Issues<br>
