@@ -26,5 +26,5 @@
             <p> Thanks to [sources] for the amazing images<br>
                Inspiration from [similar websites and projects]<br><p>
       License <br>
-           <p> MIT LICENS <p>
+           <p> MIT LICENSE <p>
          
