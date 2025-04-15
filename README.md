@@ -1,7 +1,7 @@
 
 =======
 ### GLOBE WANDERERS
-![Uploading image.png…]()
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/cf438c6a-3487-42df-acfb-c927b1d2279d" />
 
 
 
@@ -11,7 +11,7 @@
              <p> View images in a slideshow <br>
                 simple navigation for easy exploration.<br></p>
     Technologies Used<br>
-            <p>Html<br>
+            <p>-**Html**<br>
              Css<br>
              Javascript(with some help from online resources)<br></p>
       Known Issues<br>
