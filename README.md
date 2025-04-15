@@ -1,7 +1,8 @@
 
 =======
 ### GLOBE WANDERERS
-<img width="994" alt="image" src="https://github.com/user-attachments/assets/68e44d33-5196-44da-89e0-800a2671cecc" />
+![Uploading image.png…]()
+
 
 
 >>>>>>> 8d3f8ce053e35e79e5963b3345f88d2e1e49453b
