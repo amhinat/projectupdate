@@ -1,7 +1,10 @@
 
 =======
 ### GLOBE WANDERERS
-<img width="945" alt="image" src="https://github.com/user-attachments/assets/cf438c6a-3487-42df-acfb-c927b1d2279d" />
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/f63359e1-612c-4d46-a3a4-6cfcd5c9a186" />
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/c8769d16-e4cf-42b9-a628-06479d967e3e" />
+
+
 
 
 
