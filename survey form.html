@@ -25,7 +25,7 @@
         </header>
     </div>
     <div class="contain">
-        <h1>Photo Gallery Survey</h1>
+        <h1>Tour Survey</h1>
         <!--add email form action to send to email after submision-->
         <form action="https://formsubmit.co/makojiaminat@gmail.com" method="POST" id="survey-form">
             <input type="hidden" name="_captcha" value="false">
@@ -34,80 +34,19 @@
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
 
-            <label for="age-range">What is your age range?</label>
-            <select id="age-range" name="age-range">
-                <option value="">Select an age range</option>
-                <option value="18-24">18-24</option>
-                <option value="25-34">25-34</option>
-                <option value="35-44">35-44</option>
-                <option value="45-54">45-54</option>
-                <option value="55+">55+</option>
-            </select>
-
-            <label for="occupation">Occupation:</label>
-            <input type="text" id="occupation" name="occupation" required>
-
-            <label for="hear-about">How did you hear about our photo gallery?</label>
-            <select id="hear-about" name="hear-about">
-                <option value="">Select an option</option>
-                <option value="social media">Social Media</option>
-                <option value="search engine">Search Engine</option>
-                <option value="friend or family">Friend or Family</option>
-                <option value="other">Other</option>
-            </select>
+            <label for="phone number">Phone Number:</label>
+            <input type="text" id="phone" name="phone" required>
 
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" required>
 
-            <h2>Photo Gallery Experience</h2>
+            <h2>Tour Experience</h2>
 
-            <label for="rating">How would you rate our photo gallery?</label>
-            <select id="rating" name="rating" required>
-                <option value="">Select a rating</option>
-                <option value="1">1 (Poor)</option>
-                <option value="2">2 (Fair)</option>
-                <option value="3">3 (Good)</option>
-                <option value="4">4 (Very Good)</option>
-                <option value="5">5 (Excellent)</option>
-            </select>
-
-            <label for="navigation">How easy was it to navigate our photo gallery?</label>
-            <select id="navigation" name="navigation" required>
-                <option value="">Select a rating</option>
-                <option value="1">1 (Very Difficult)</option>
-                <option value="2">2 (Somewhat Difficult)</option>
-                <option value="3">3 (Neutral)</option>
-                <option value="4">4 (Somewhat Easy)</option>
-                <option value="5">5 (Easy)</option>
-            </select>
-
-            <label for="comments">Do you have any comments or suggestions?</label>
+            <label for="comments">Do you have any comments about your tour?</label>
             <textarea id="comments" name="comments"></textarea>
 
-            <label for="favorite-photo">What is your favorite photo in the gallery?</label>
-            <input type="text" id="favorite-photo" name="favorite-photo">
-
-            <label for="least-favorite-photo">What is your least favorite photo in the gallery?</label>
-            <input type="text" id="least-favorite-photo" name="least-favorite-photo">
-
-            <label for="liked-most">What did you like most about our photo gallery?</label>
+            <label for="liked-most">Did you like our tour-guide services?</label>
             <textarea id="liked-most" name="liked-most"></textarea>
-
-            <label for="liked-least">What did you like least about our photo gallery?</label>
-            <textarea id="liked-least" name="liked-least"></textarea>
-
-            <label for="relevance">How relevant were the photos in our gallery to your interests?</label>
-            <select id="relevance" name="relevance" required>
-                <option value="">Select a rating</option>
-                <option value="1">1 (Not relevant at all)</option>
-                <option value="2">2 (Somewhat irrelevant)</option>
-                <option value="3">3 (Neutral)</option>
-                <option value="4">4 (Somewhat relevant)</option>
-                <option value="5">5 (Very relevant)</option>
-            </select>
-
-            <label for="missing-photos">Were there any photos you felt were missing from our gallery?</label>
-            <textarea id="missing-photos" name="missing-photos"></textarea>
 
             <button type="submit">SUBMIT</button>
         </form>
